@@ -1,6 +1,38 @@
+,Locality,Type_of_property,Price,Availability,Condition of the property
 0,Liège,Maison,165 000 €,À vendre,Bon état
 1,Liege,Maison,175 000 €,Option,1 712 €
 2,Liege,Maison,259 000 €,Vendu,Bon état
 3,Liege,Maison,76 500 €,À vendre,à rafraîchir
 4,Liège,Maison,795 000 €,À vendre,Excellent état
 5,Liege,Maison,99 000 €,À vendre,Bon état
+,Locality,Type_of_property,Price,Availability,Condition of the property
+0,Seraing,Maison,119 000 €,À vendre,à rénover
+1,Seraing,Maison,129 000 €,Option,à rafraîchir
+2,Seraing,Maison,149 000 €,À vendre,à rénover
+3,Seraing,Maison,159 000 €,À vendre,Bon état
+4,Seraing,Maison,179 000 €,Vendu,à rafraîchir
+5,Seraing,Maison,219 000 €,À vendre,607 €
+,Locality,Type_of_property,Price,Availability,Condition of the property
+,Locality,Type_of_property,Price,Availability,Condition of the property
+0,Waremme,Maison,119 000 €,Vendu,à rafraîchir
+1,Waremme,Maison,189 000 €,À vendre,à rafraîchir
+,Locality,Type_of_property,Price,Availability,Condition of the property
+0,Villers-le-Bouillet,Maison,349 000 €,À vendre,à rafraîchir
+,Locality,Type_of_property,Price,Availability,Condition of the property
+0,Fléron,Maison,219 000 €,Option,à rénover
+,Locality,Type_of_property,Price,Availability,Condition of the property
+0,Esneux,Maison,395 000 €,À vendre,Bon état
+,Locality,Type_of_property,Price,Availability,Condition of the property
+0,Liege,Appartement,119 000 €,À vendre,Bon état
+1,Liège,Appartement,125 000 €,Option,à rafraîchir
+2,Liege,Appartement,125 000 €,Vendu,Bon état
+3,Liège,Appartement,139 000 €,Vendu,à rénover
+4,Liege,Appartement,139 000 €,À vendre,981 €
+5,Liège,Appartement,159 000 €,Vendu,Bon état
+6,Liège,Appartement,199 000 €,Option,Bon état
+7,Liège,Appartement,209 000 €,Vendu,Bon état
+8,Liège,Appartement,299 000 €,À vendre,à rafraîchir
+,Locality,Type_of_property,Price,Availability,Condition of the property
+0,Grace-Hollogne,Appartement,165 000 €,Option,Bon état
+,Locality,Type_of_property,Price,Availability,Condition of the property
+0,Liège Grivegnée,Appartement,69 000 €,À vendre,Bon état
