@@ -1,0 +1,41 @@
+,Locality,Type_of_property,Price,Availability,Condition of the property,Chambers,Cuisine,Toilette,Salle de bain,Terrasse,Garden,Total habitable
+0,Liège,Maison,165 000 €,À vendre,Bon état,3,1,2,1,1,Oui,160 m2
+1,Liege,Maison,175 000 €,Option,1 712 €,3,1,2,1,1,Oui,150 m2
+2,Liege,Maison,259 000 €,Vendu,Bon état,4,1,2,2,5,1,190 m2
+3,Liege,Maison,76 500 €,À vendre,à rafraîchir,4,1,2,2,5,1,60 m2
+4,Liège,Maison,795 000 €,À vendre,Excellent état,5,1,4,3,1,Oui,327 m2
+5,Liege,Maison,99 000 €,À vendre,Bon état,5,1,4,3,1,Oui,53 m2
+,Locality,Type_of_property,Price,Availability,Condition of the property,Chambers,Cuisine,Toilette,Salle de bain,Terrasse,Garden,Total habitable
+0,Seraing,Maison,119 000 €,À vendre,à rénover,2,1,1,1,Oui,Oui,90 m2
+1,Seraing,Maison,129 000 €,Option,à rafraîchir,3,1,1,1,1,Oui,120 m2
+2,Seraing,Maison,149 000 €,À vendre,à rénover,4,1,3,2,1,Oui,176 m2
+3,Seraing,Maison,159 000 €,À vendre,Bon état,4,1,3,2,1,Oui,98 m2
+4,Seraing,Maison,179 000 €,Vendu,à rafraîchir,6,1,2,1,1,Oui,220 m2
+5,Seraing,Maison,219 000 €,À vendre,607 €,3,1,1,1,1,Oui,93 m2
+,Locality,Type_of_property,Price,Availability,Condition of the property,Chambers,Cuisine,Toilette,Salle de bain,Terrasse,Garden,Total habitable
+0,Waremme,Maison,119 000 €,Vendu,à rafraîchir,2,1,2,1,1,Oui,102 m2
+1,Waremme,Maison,189 000 €,À vendre,à rafraîchir,4,1,2,1,1,1,165 m2
+,Locality,Type_of_property,Price,Availability,Condition of the property,Chambers,Cuisine,Toilette,Salle de bain,Terrasse,Garden,Total habitable
+0,Villers-le-Bouillet,Maison,349 000 €,À vendre,à rafraîchir,7,1,3,3,1,Oui,388 m2
+,Locality,Type_of_property,Price,Availability,Condition of the property,Chambers,Cuisine,Toilette,Salle de bain,Terrasse,Garden,Total habitable
+0,Flémalle,Maison,329 000 €,Option,à rénover,6,1,5,3,1,Oui,273 m2
+,Locality,Type_of_property,Price,Availability,Condition of the property,Chambers,Cuisine,Toilette,Salle de bain,Terrasse,Garden,Total habitable
+0,Fléron,Maison,219 000 €,Option,à rénover,3,1,2,1,1,1,153 m2
+,Locality,Type_of_property,Price,Availability,Condition of the property,Chambers,Cuisine,Toilette,Salle de bain,Terrasse,Garden,Total habitable
+0,Esneux,Maison,395 000 €,À vendre,Bon état,3,1,1,1,2,1,155 m2
+,Locality,Type_of_property,Price,Availability,Condition of the property,Chambers,Cuisine,Toilette,Salle de bain,Terrasse,Garden,Total habitable
+0,Liege,Appartement,119 000 €,À vendre,Bon état,3,1,1,1,2,1,57 m2
+1,Liège,Appartement,125 000 €,Option,à rafraîchir,3,1,1,1,2,1,79 m2
+2,Liege,Appartement,125 000 €,Vendu,Bon état,3,1,1,1,2,1,50 m2
+3,Liège,Appartement,139 000 €,Vendu,à rénover,3,1,1,1,2,1,89 m2
+4,Liege,Appartement,139 000 €,À vendre,981 €,3,1,1,1,2,1,98 m2
+5,Liège,Appartement,159 000 €,Vendu,Bon état,3,1,1,1,2,1,94 m2
+6,Liège,Appartement,199 000 €,Option,Bon état,2,1,2,2,1,1,126 m2
+7,Liège,Appartement,209 000 €,Vendu,Bon état,3,1,2,1,1,Oui,103 m2
+8,Liège,Appartement,299 000 €,À vendre,à rafraîchir,3,1,2,2,1,Oui,103 m2
+,Locality,Type_of_property,Price,Availability,Condition of the property,Chambers,Cuisine,Toilette,Salle de bain,Terrasse,Garden,Total habitable
+0,Grace-Hollogne,Appartement,165 000 €,Option,Bon état,3,1,1,1,1,Oui,87 m2
+,Locality,Type_of_property,Price,Availability,Condition of the property,Chambers,Cuisine,Toilette,Salle de bain,Terrasse,Garden,Total habitable
+0,Liège Grivegnée,Appartement,69 000 €,À vendre,Bon état,3,1,1,1,1,Oui,30 m2
+,Locality,Type_of_property,Price,Availability,Condition of the property,Chambers,Cuisine,Toilette,Salle de bain,Terrasse,Garden,Total habitable
+0,Herstal,Appartement,249 000 €,Vendu,Neuf,3,1,2,2,1,1,135 m2
