@@ -1,0 +1,633 @@
+,Locality,Type of Property,Sub Type,Price,Type of Sale,No of Rooms,Area(sqft),Equipped(Y/N),Furnished(Y/N),Open Fire(Y/N),Terrace Area,Garden Area,Surface of the Land(sqft),Surface area of the Plot(sqft),No of Facades,Simming Pool(Y/N),State of the Building
+0, Antwerpen-Centrum , Huis,Historische pand," 12,500,000 ", Huis,8,"20.343,79",,,,,,,"9.181,62",,Y,None
+1, Lasne/Ohain , Maison,Établissement historique," 6,500,000 ", Maison,16,18,,,,,,,"20,01",,Y,None
+2, Antwerpen-Noord, Huis,Villa," 5,850,000 ", Huis,10,"12.163,22",,,,,,,"2,3",,Y,None
+3, Antwerpen-Noord, Huis,Historische pand," 4,950,000 ", Huis,30,"26.909,78",,,,,,,"4,950,000",,Y,None
+4, Sint-Martens-Latem, Huis,Historische pand," 4,800,000 ", Huis,None,"11,12",,,,,,,"4,800,000",,Y,None
+5, South and surroundings, House,Villa," 4,300,000 ", House,7,"6,673.62",,,,,,,5.66,,Y,None
+6, Rhode-Saint-Genèse/Linkebeek , House,Villa," 3,900,000 ", House,12,"6,081.61",,,,,,,"35,520.9",,Y,None
+7, Antwerpen-Noord, Huis,Villa," 3,850,000 ", Huis,7,"8.395,85",,,,,,,"2,57",,Y,None
+8, Antwerpen-Noord, Huis,Villa," 3,750,000 ", Huis,15,"11.840,3",,,,,,,"2,97",,Y,None
+9, Antwerpen-Noord, Huis,Villa," 3,750,000 ", Huis,10,"9.687,52",,,,,,,"3,750,000",,Y,None
+10, Bruges, Huis,Investering / Woon- en werkruimte," 3,500,000 ", Huis,None,"3,500,000",,,,,,,None,,Y,None
+11, Brussels city center , House,Investment / Residential investment," 3,500,000 ", House,None,"3,500,000",,,,,,,None,,Y,None
+12, South and surroundings, House,Historic Estate," 3,500,000 ", House,11,"10,763.91",,,,,,,"3,500,000",,Y,None
+13, Antwerpen-Noord, Huis,Villa," 3,450,000 ", Huis,10,"8.611,13",,,,,,,"4,46",,Y,None
+14, Antwerpen-Noord, Huis,Villa," 3,400,000 ", Huis,12,"10.763,91",,,,,,,"5,93",,Y,None
+15, Lasne/Ohain , Maison,Établissement historique," 3,350,000 ", Maison,12,9,,,,,,,"11,86",,Y,None
+16, Antwerpen-Zuid, House,Villa," 3,175,000 ", House,8,"4,843.76",,,,,,,"16,899.34",,Y,None
+17, Antwerpen-Zuid , House,Villa," 3,175,000 ", House,8,"4,843.76",,,,,,,"16,899.34",,Y,None
+18, Lasne/Ohain , House,Villa," 3,100,000 ", House,8,"4,305.56",,,,,,,6.55,,Y,None
+19, Keerbergen, House,Historic Estate," 3,025,000 ", House,19,"13,594.82",,,,,,,"45,811.2",,Y,None
+20, South and surroundings, House,Villa," 2,995,000 ", House,10,"7,061.13",,,,,,,"18,072.61",,Y,None
+21, Bruges, House,Investment / Residential investment," 2,995,000 ", House,18,"21,344.83",,,,,,,"16,092.05",,Y,None
+22, Bruges, House,Historic Estate," 2,995,000 ", House,25,"13,454.89",,,,,,,"6,910.43",,Y,None
+23, Zuid en omstreken, Huis,Villa," 2,990,000 ", Huis,9,"5.381,96",,,,,,,"26.909,78",,Y,None
+24, Antwerpen-Centrum , Huis,Huis," 2,950,000 ", Huis,13,"7.491,68",,,,,,,"2,950,000",,Y,None
+25, East and surroundings, House,Historic Estate," 2,900,000 ", House,13,"9,149.32",,,,,,,54.36,,Y,None
+26, East and surroundings , House,Historic Estate," 2,900,000 ", House,13,"9,149.32",,,,,,,54.36,,Y,None
+27, Sud et péripherie, Maison,Villa," 2,900,000 ", Maison,8,4,,,,,,,48,,Y,None
+28, Bruges, House,Historic Estate," 2,870,000 ", House,8,"5,790.98",,,,,,,"4,251.74",,Y,None
+29, Antwerpen-Noord, Huis,Villa," 2,850,000 ", Huis,12,"8.072,93",,,,,,,"9,14",,Y,None
+30, Antwerpen-Noord, Huis,Villa," 2,795,000 ", Huis,9,"9.515,3",,,,,,,"32.291,73",,Y,None
+31, Antwerpen-Zuid, Huis,Villa," 2,750,000 ", Huis,11,"11.000,72",,,,,,,"12.679,89",,Y,None
+32, Antwerpen-Centrum, House,House," 2,750,000 ", House,15,"7,674.67",,,,,,,"2,750,000",,Y,None
+33, Antwerpen-Noord, Huis,Villa," 2,750,000 ", Huis,12,"9.149,32",,,,,,,"55,43",,Y,None
+34, Bruges, House,Hotel," 2,600,000 ", House,16,"5,468.07",,,,,,,"11,226.76",,Y,None
+35, Antwerpen-Noord, Huis,Villa," 2,595,000 ", Huis,9,"8.611,13",,,,,,,"1,64",,Y,None
+36, Noord-Limburg , Huis,Landhuis," 2,500,000 ", Huis,5,"10,13",,,,,,,"10,16",,Y,None
+37, Antwerpen-Centrum , House,Historic Estate," 2,500,000 ", House,10,"6,716.68",,,,,,,"3,315.28",,Y,None
+38, South and surroundings, House,Villa," 2,495,000 ", House,9,"4,305.56",,,,,,,"17,222.26",,Y,None
+39, Lasne/Ohain , Maison,Villa," 2,450,000 ", Maison,12,7,,,,,,,"2,450,000",,Y,None
+40, Antwerpen-Centrum , Huis,Historische pand," 2,430,000 ", Huis,13,"4.800,7",,,,,,,"2,430,000",,Y,None
+41, South and surroundings, House,Historic Estate," 2,400,000 ", House,20,"3,229.17",,,,,,,"4,962.16",,Y,None
+42, South and surroundings, House,Villa," 2,350,000 ", House,9,"5,704.87",,,,,,,"16,468.78",,Y,None
+43, Woluwe-Saint-Pierre , House,Detached House," 2,300,000 ", House,9,"4,843.76",,,,,,,"8,223.63",,Y,None
+44, South and surroundings, House,Villa," 2,295,000 ", House,8,"4,391.68",,,,,,,"20,020.87",,Y,None
+45, East and surroundings, House,Villa," 2,250,000 ", House,13,"6,619.8",,,,,,,"50,590.38",,Y,None
+46, Antwerpen-Noord, Huis,Villa," 2,250,000 ", Huis,7,"5.920,15",,,,,,,"53.819,55",,Y,None
+47, South and surroundings, House,Historic Estate," 2,200,000 ", House,10,"6,296.89",,,,,,,"13,993.08",,Y,None
+48, Antwerpen-Noord, Huis,Villa," 2,200,000 ", Huis,11,"8.664,95",,,,,,,"52.204,97",,Y,None
+49, Nord et péripherie, House,Villa," 2,200,000 ", House,11,"4,413.2",,,,,,,"21,108.03",,Y,None
+50, Antwerpen-Noord, Huis,Villa," 2,200,000 ", Huis,10,"6.867,37",,,,,,,"2,47",,Y,None
+51, Antwerpen-Noord, Huis,Villa," 2,195,000 ", Huis,8,"8.072,93",,,,,,,"1,28",,Y,None
+52, South and surroundings, House,Detached House," 2,190,000 ", House,None,"5,920.15",,,,,,,"2,190,000",,Y,None
+53, Grez Doiceau, House,Historic Estate," 2,150,000 ", House,13,"9,687.52",,,,,,,2.47,,Y,None
+54, Antwerpen-Noord , Huis,Historische pand," 2,100,000 ", Huis,7,"4.305,56",,,,,,,"2,100,000",,Y,None
+55, Antwerpen-Noord, Huis,Villa," 2,075,000 ", Huis,8,"8.105,22",,,,,,,"38.427,16",,Y,None
+56, Antwerpen-Noord, Huis,Villa," 1,995,000 ", Huis,11,"10.763,91",,,,,,,"1,92",,Y,None
+57, Bruges, Huis,Historische pand," 1,995,000 ", Huis,10,"10.763,91",,,,,,,"3.659,73",,Y,None
+58, Antwerpen-Noord , Huis,Villa," 1,995,000 ", Huis,18,"48.900,45",,,,,,,"48.900,45",,Y,None
+59, Antwerpen-Centrum , House,Historic Estate," 1,995,000 ", House,14,"9,149.32",,,,,,,"10,763.91",,Y,None
+60, South and surroundings, House,Villa," 1,990,000 ", House,8,"4,305.56",,,,,,,"43,055.64",,Y,None
+61, De Haan , House,Villa," 1,990,000 ", House,24,"6,458.35",,,,,,,"9,784.39",,Y,None
+62, Bruges, House,Villa," 1,980,000 ", House,17,"6,027.79",,,,,,,"32,636.18",,Y,None
+63, Antwerpen-Noord, Huis,Villa," 1,980,000 ", Huis,6,"5.651,05",,,,,,,"32.463,95",,Y,None
+64, Brussels city center , House,Historic Estate," 1,975,000 ", House,18,"7,706.96",,,,,,,"1,975,000",,Y,None
+65, Antwerpen-Noord, Huis,Villa," 1,950,000 ", Huis,9,"6.673,62",,,,,,,"51.935,87",,Y,None
+66, Bousval / Genappe , Maison,Établissement historique," 1,950,000 ", Maison,12,5,,,,,,,"6,18",,Y,None
+67, South and surroundings, House,Historic Estate," 1,900,000 ", House,None,"19,375.04",,,,,,,"1,900,000",,Y,None
+68, Bruges, House,Investment / Residential investment," 1,895,000 ", House,14,"1,227.09",,,,,,,"1,227.09",,Y,None
+69, Sint-Martens-Latem, Huis,Vrijstaande woning," 1,850,000 ", Huis,6,"9.149,32",,,,,,,"45.133,08",,Y,None
+70, Nord - Ouest , House,Villa," 1,850,000 ", House,7,"5,920.15",,,,,,,"21,387.89",,Y,None
+71, East and surroundings, House,House," 1,795,000 ", House,8,"4,036.47",,,,,,,"6,189.25",,Y,None
+72, Sint Katelijne Waver, House,Finca," 1,750,000 ", House,9,"5,543.41",,,,,,,1.48,,Y,None
+73, Brussels city center , House,Historic Estate," 1,750,000 ", House,13,"6,458.35",,,,,,,"2,615.63",,Y,None
+74, Merelbeke, Huis,Ander(e)," 1,725,000 ", Huis,11,"6.458,35",,,,,,,"3,86",,Y,None
+75, South and surroundings, House,Historic Estate," 1,695,000 ", House,10,"5,489.59",,,,,,,"4,725.36",,Y,None
+76, Uccle , House,Villa," 1,695,000 ", House,6,"4,843.76",,,,,,,"1,695,000",,Y,None
+77, Nord et péripherie, House,Villa," 1,690,000 ", House,10,"9,149.32",,,,,,,"29,740.68",,Y,None
+78, Antwerpen-Centrum , House,House," 1,660,000 ", House,7,"4,757.65",,,,,,,"1,660,000",,Y,None
+79, Uccle , House,House," 1,650,000 ", House,10,"3,982.65",,,,,,,"6,081.61",,Y,None
+80, South and surroundings, House,Historic Estate," 1,650,000 ", House,9,"3,336.81",,,,,,,"1,650,000",,Y,None
+81, South and surroundings, House,House," 1,650,000 ", House,9,"4,951.4",,,,,,,"6,781.26",,Y,None
+82, South and surroundings , House,House," 1,650,000 ", House,None,"4,090.29",,,,,,,"1,650,000",,Y,None
+83, East and surroundings, House,Villa," 1,650,000 ", House,9,"4,736.12",,,,,,,"17,383.72",,Y,None
+84, Ittre, Maison,Établissement historique," 1,650,000 ", Maison,9,5,,,,,,,"2,11",,Y,None
+85, Waterloo, Maison,Villa," 1,595,000 ", Maison,11,6,,,,,,,16,,Y,None
+86, South and surroundings, House,House," 1,590,000 ", House,6,"3,713.55",,,,,,,936.46,,Y,None
+87, Antwerpen-Zuid, Huis,Villa," 1,585,000 ", Huis,7,"5.037,51",,,,,,,"1,585,000",,Y,None
+88, Lasne/Ohain , Maison,Maison," 1,550,000 ", Maison,6,3,,,,,,,6,,Y,None
+89, Bruges, Huis,Villa," 1,549,000 ", Huis,9,"6.996,54",,,,,,,"16.942,39",,Y,None
+90, Jabbeke, Huis,Villa," 1,520,000 ", Huis,7,"5.651,05",,,,,,,"13.831,62",,Y,None
+91, Bruges, House,House," 1,515,000 ", House,9,"5,478.83",,,,,,,"4,154.87",,Y,None
+92, South and surroundings, House,House," 1,500,000 ", House,8,"5,920.15",,,,,,,"3,013.89",,Y,None
+93, Antwerpen-Centrum , Huis,Huis," 1,495,000 ", Huis,8,"3.767,37",,,,,,,"1,495,000",,Y,None
+94, Beernem , House,Villa," 1,495,000 ", House,7,"6,458.35",,,,,,,3.58,,Y,None
+95, Antwerpen-Zuid, Huis,Villa," 1,495,000 ", Huis,8,"4.370,15",,,,,,,"27.254,22",,Y,None
+96, Lasne/Ohain , Maison,Villa," 1,495,000 ", Maison,9,3,,,,,,,"1,43",,Y,None
+97, Lasne/Ohain , Maison,Maison détachée," 1,495,000 ", Maison,9,5,,,,,,,"2,1",,Y,None
+98, Spa and surroundings, House,Historic Estate," 1,490,000 ", House,12,"7,750.02",,,,,,,1.96,,Y,None
+99, Antwerpen-Noord, Huis,Villa," 1,490,000 ", Huis,9,"8.072,93",,,,,,,"1,66",,Y,None
+100, Damme , House,Finca," 1,485,000 ", House,6,"4,983.69",,,,,,,2.47,,Y,None
+101, South and surroundings, House,Villa," 1,475,000 ", House,12,"5,381.96",,,,,,,"27,178.87",,Y,None
+102, Antwerpen-Noord, House,Villa," 1,475,000 ", House,11,"8,449.67",,,,,,,"32,291.73",,Y,None
+103, Melle, Huis,Vrijstaande woning," 1,450,000 ", Huis,9,"3.659,73",,,,,,,"3,97",,Y,None
+104, Antwerpen-Noord, Huis,Villa," 1,400,000 ", Huis,None,"1,400,000",,,,,,,None,,Y,None
+105, Sud et péripherie, Maison,Villa," 1,395,000 ", Maison,11,4,,,,,,,29,,Y,None
+106, Uccle , House,Villa," 1,395,000 ", House,7,"2,690.98",,,,,,,"10,763.91",,Y,None
+107, Embourg et environs, Maison,Villa," 1,395,000 ", Maison,12,6,,,,,,,41,,Y,None
+108, South and surroundings, House,House," 1,395,000 ", House,8,"3,013.89",,,,,,,"1,395,000",,Y,None
+109, South and surroundings, House,Villa," 1,395,000 ", House,7,"3,315.28",,,,,,,"13,401.07",,Y,None
+110, Antwerpen-Noord, Huis,Villa," 1,395,000 ", Huis,7,"7.534,74",,,,,,,"48.868,15",,Y,None
+111, Chaumont-Gistoux/Dion/Bonlez , Maison,Villa," 1,390,000 ", Maison,9,4,,,,,,,35,,Y,None
+112, Bruges, House,House," 1,385,000 ", House,7,"3,304.52",,,,,,,"4,359.38",,Y,None
+113, Antwerpen-Zuid , House,Villa," 1,380,000 ", House,11,"5,381.96",,,,,,,"19,450.39",,Y,None
+114, Antwerpen-Noord, Huis,Villa," 1,375,000 ", Huis,9,"5.381,96",,,,,,,"2,64",,Y,None
+115, Lasne/Ohain , Maison,Villa," 1,350,000 ", Maison,8,3,,,,,,,43,,Y,None
+116, Saint-Josse , House,Investment / Residential investment," 1,350,000 ", House,20,"5,812.51",,,,,,,"1,350,000",,Y,None
+117, South and surroundings, House,House," 1,350,000 ", House,9,"4,843.76",,,,,,,"2,755.56",,Y,None
+118, Waregem, Huis,Villa," 1,300,000 ", Huis,4,"4.090,29",,,,,,,"1,300,000",,Y,None
+119, Merelbeke, Huis,Vrijstaande woning," 1,297,000 ", Huis,6,"2.583,34",,,,,,,"50.127,53",,Y,None
+120, Antwerpen-Zuid, Huis,Vrijstaande woning," 1,295,000 ", Huis,11,"4.779,18",,,,,,,"6.469,11",,Y,None
+121, Noord-Limburg, Huis,Landhuis," 1,295,000 ", Huis,None,"38.308,76",,,,,,,"1,295,000",,Y,None
+122, Sint Katelijne Waver, House,Finca," 1,295,000 ", House,9,"5,543.41",,,,,,,"31,678.19",,Y,None
+123, Antwerpen-Noord, Huis,Villa," 1,295,000 ", Huis,11,"8.611,13",,,,,,,"6,18",,Y,None
+124, Anderlecht , House,Villa," 1,280,000 ", House,8,"3,444.45",,,,,,,"25,833.39",,Y,None
+125, South and surroundings, House,Villa," 1,280,000 ", House,6,"3,239.94",,,,,,,"29,740.68",,Y,None
+126, Antwerpen-Noord, Huis,Villa," 1,275,000 ", Huis,7,"7.104,18",,,,,,,"1,275,000",,Y,None
+127, Antwerpen-Noord, Huis,Villa," 1,275,000 ", Huis,7,"4.423,97",,,,,,,"2,43",,Y,None
+128, Antwerpen-Noord, Huis,Villa," 1,275,000 ", Huis,7,"4.467,02",,,,,,,"1,45",,Y,None
+129, Oostende, House,Villa," 1,275,000 ", House,8,"5,790.98",,,,,,,"38,750.08",,Y,None
+130, Lasne/Ohain , Maison,Établissement historique," 1,250,000 ", Maison,None,"1,250,000",,,,,,,None,,Y,None
+131, Waterloo, Maison,Villa," 1,250,000 ", Maison,8,3,,,,,,,28,,Y,None
+132, South and surroundings, House,Villa," 1,200,000 ", House,7,"1,776.05",,,,,,,2.99,,Y,None
+133, Waterloo, Maison,Villa," 1,200,000 ", Maison,9,2,,,,,,,23,,Y,None
+134, Antwerpen-Zuid, Huis,Investering / Woon- en werkruimte," 1,195,000 ", Huis,9,"3.842,72",,,,,,,"1.722,23",,Y,None
+135, Damme , House,Villa," 1,195,000 ", House,7,"4,768.41",,,,,,,"24,864.63",,Y,None
+136, Keerbergen , House,Villa," 1,195,000 ", House,10,"5,500.36",,,,,,,"11,097.59",,Y,None
+137, Bruges, Huis,Villa," 1,190,000 ", Huis,6,"5.381,96",,,,,,,"12.959,75",,Y,None
+138, Putte, House,Historic Estate," 1,190,000 ", House,6,"6,350.71",,,,,,,"45,811.2",,Y,None
+139, Antwerpen-Noord, Huis,Villa," 1,150,000 ", Huis,8,"3.229,17",,,,,,,"4,95",,Y,None
+140, Anderlecht , House,Historic Estate," 1,150,000 ", House,13,"5,920.15",,,,,,,"5,575.71",,Y,None
+141, East and surroundings, House,House," 1,150,000 ", House,9,"5,112.86",,,,,,,"1,614.59",,Y,None
+142, Beauvechain/Tourinnes-la-Grosse , Maison,Autre," 1,150,000 ", Maison,8,4,,,,,,,37,,Y,None
+143, Basse Meuse and surroundings, House,Historic Estate," 1,150,000 ", House,None,19.77,,,,,,,"1,150,000",,Y,None
+144, Antwerpen-Noord, Huis,Villa," 1,145,000 ", Huis,8,"8.234,39",,,,,,,"21.527,82",,Y,None
+145, Braine-le-Château, Maison,Villa," 1,120,000 ", Maison,7,2,,,,,,,27,,Y,None
+146, Watermael-Boitsfort , House,House," 1,100,000 ", House,8,"2,744.8",,,,,,,"1,754.52",,Y,None
+147, Braine-L'alleud/Lillois/Ophain, Maison,Villa," 1,100,000 ", Maison,16,6,,,,,,,"1,32",,Y,None
+148, Sint-Martens-Latem, Huis,Huis," 1,095,000 ", Huis,6,"3.444,45",,,,,,,"21.969,14",,Y,None
+149, Oostende, House,Villa," 1,095,000 ", House,10,"3,336.81",,,,,,,3.35,,Y,None
+150, Anderlecht , House,Investment / Residential investment," 1,090,000 ", House,None,None,,,,,,,None,,Y,None
+151, Lasne/Ohain , Maison,Maison détachée," 1,080,000 ", Maison,7,4,,,,,,,50,,Y,None
+152, Waterloo, Maison,Villa," 1,080,000 ", Maison,7,3,,,,,,,16,,Y,None
+153, Brussels city center , House,House," 1,075,000 ", House,8,"4,090.29",,,,,,,"2,583.34",,Y,None
+154, Antwerpen-Noord, Huis,Villa," 1,035,000 ", Huis,6,"4.736,12",,,,,,,"20.666,71",,Y,None
+155, Court-Saint-Etienne/Mont-Saint-Guibert , Maison,Établissement historique," 1,000,000 ", Maison,7,5,,,,,,,2,,Y,None
+156, Bruges, Huis,Investering / Woon- en werkruimte," 1,000,000 ", Huis,8,"8.288,21",,,,,,,"12.464,61",,Y,None
+157, Antwerpen-Noord, Huis,Villa," 997,500 ", Huis,6,"5.166,68",,,,,,,"44.454,95",,Y,None
+158, Lasne/Ohain , Maison,Villa," 995,000 ", Maison,8,3,,,,,,,26,,Y,None
+159, Brussels city center , House,Investment / Residential investment," 995,000 ", House,10,"3,552.09",,,,,,,"1,915.98",,Y,None
+160, Antwerpen-Noord, Huis,Villa," 995,000 ", Huis,10,"5.317,37",,,,,,,"28.879,57",,Y,None
+161, Ichtegem, Huis,Villa," 990,000 ", Huis,5,"6.458,35",,,,,,,"12.206,27",,Y,None
+162, South and surroundings, House,Villa," 990,000 ", House,6,"2,744.8",,,,,,,1.27,,Y,None
+163, Sud et péripherie, Maison,Villa," 990,000 ", Maison,10,3,,,,,,,6,,Y,None
+164, Bruges, House,Historic Estate," 985,000 ", House,5,"3,358.34",,,,,,,"34,283.05",,Y,None
+165, East and surroundings, House,House," 980,000 ", House,None,"980,000",,,,,,,None,,Y,None
+166, Kortrijk, Huis,Villa," 975,000 ", Huis,6,"7.567,03",,,,,,,"23.809,77",,Y,None
+167, Oostkamp, House,Villa," 975,000 ", House,7,"5,920.15",,,,,,,"45,617.45",,Y,None
+168, Noord-Limburg , Huis,Ander(e)," 965,000 ", Huis,4,"3.875,01",,,,,,,"22.937,89",,Y,None
+169, Oostende, Huis,Villa," 965,000 ", Huis,5,"3.487,51",,,,,,,"8.643,42",,Y,None
+170, South and surroundings, House,Investment / Residential investment," 950,000 ", House,7,"4,520.84",,,,,,,"3,229.17",,Y,None
+171, Antwerpen-Centrum, House,Historic Estate," 950,000 ", House,6,"5,381.96",,,,,,,"950,000",,Y,None
+172, Antwerpen-Zuid, Huis,Huis," 947,000 ", Huis,5,"3.013,89",,,,,,,"2.368,06",,Y,None
+173, Bruges, House,House," 945,000 ", House,5,"6,243.07",,,,,,,"6,200.01",,Y,None
+174, Antwerpen-Noord, Huis,Villa," 945,000 ", Huis,7,"3.487,51",,,,,,,"19.353,51",,Y,None
+175, Gent-Sint-Pieters, Huis,Vrijstaande woning," 945,000 ", Huis,None,"8.072,93",,,,,,,"945,000",,Y,None
+176, Lasne/Ohain , Maison,Villa," 899,000 ", Maison,6,2,,,,,,,32,,Y,None
+177, Noord-Limburg, Huis,Vrijstaande woning," 895,000 ", Huis,6,"3.444,45",,,,,,,"2,47",,Y,None
+178, East and surroundings, House,Villa," 895,000 ", House,6,"2,260.42",,,,,,,"7,534.74",,Y,None
+179, Neupré et environs, Maison,Établissement historique," 895,000 ", Maison,7,4,,,,,,,"1,63",,Y,None
+180, Steenokkerzeel , House,House," 895,000 ", House,5,"3,928.83",,,,,,,"5,575.71",,Y,None
+181, Sint Katelijne Waver , House,Finca," 895,000 ", House,7,"3,121.53",,,,,,,3.95,,Y,None
+182, South and surroundings, House,House," 895,000 ", House,7,"2,260.42",,,,,,,"2,712.51",,Y,None
+183, South and surroundings, House,Villa," 895,000 ", House,7,"2,540.28",,,,,,,"2,981.6",,Y,None
+184, Antwerpen-Zuid, Huis,Villa," 895,000 ", Huis,8,"3.293,76",,,,,,,"18.427,81",,Y,None
+185, Bruges , House,Villa," 895,000 ", House,8,"3,336.81",,,,,,,"17,222.26",,Y,None
+186, Antwerpen-Noord, Huis,Villa," 890,000 ", Huis,9,"4.843,76",,,,,,,"890,000",,Y,None
+187, Waregem, Huis,Investering / Woon- en werkruimte," 890,000 ", Huis,3,"2.411,12",,,,,,,"890,000",,Y,None
+188, Antwerpen-Noord, Huis,Villa," 890,000 ", Huis,7,"3.713,55",,,,,,,"1,73",,Y,None
+189, Liège, Maison,Établissement historique," 890,000 ", Maison,8,5,,,,,,,3,,Y,None
+190, Lasne/Ohain , Maison,Villa," 875,000 ", Maison,5,1,,,,,,,17,,Y,None
+191, Bruges, House,Villa," 875,000 ", House,9,"4,843.76",,,,,,,"7,556.27",,Y,None
+192, Antwerpen-Noord, Huis,Villa," 875,000 ", Huis,8,"5.381,96",,,,,,,"17.588,23",,Y,None
+193, Nord - Ouest, House,Investment / Residential investment," 875,000 ", House,19,"2,314.24",,,,,,,"1,345.49",,Y,None
+194, Heist-op-den-Berg, House,Finca," 870,000 ", House,9,"4,456.26",,,,,,,"22,711.85",,Y,None
+195, Uccle , House,Villa," 870,000 ", House,5,"1,829.86",,,,,,,"2,206.6",,Y,None
+196, Noord-Limburg , Huis,Historische pand," 869,000 ", Huis,5,"2.960,08",,,,,,,"2,04",,Y,None
+197, East and surroundings, House,Investment / Residential investment," 850,000 ", House,9,"2,583.34",,,,,,,"850,000",,Y,None
+198, Etterbeek , House,Investment / Residential investment," 850,000 ", House,9,"2,723.27",,,,,,,"1,743.75",,Y,None
+199, Sint Katelijne Waver, House,Villa," 850,000 ", House,5,"2,023.62",,,,,,,"22,819.49",,Y,None
+200, Kortrijk, Huis,Huis," 845,000 ", Huis,4,"1.506,95",,,,,,,"845,000",,Y,None
+201, Waterloo, Maison,Villa," 845,000 ", Maison,7,3,,,,,,,10,,Y,None
+202, Keerbergen, House,Villa," 835,000 ", House,6,"4,122.58",,,,,,,1.28,,Y,None
+203, Antwerpen-Centrum , House,Detached House," 830,000 ", House,7,"2,960.08",,,,,,,"830,000",,Y,None
+204, Antwerpen-Noord, Huis,Villa," 825,000 ", Huis,6,"3.659,73",,,,,,,"53.119,9",,Y,None
+205, Waterloo, Maison,Maison détachée," 820,000 ", Maison,6,2,,,,,,,11,,Y,None
+206, Antwerpen-Noord, Huis,Villa," 819,000 ", Huis,7,"3.552,09",,,,,,,"17.114,62",,Y,None
+207, Waterloo, Maison,Villa," 799,000 ", Maison,8,2,,,,,,,10,,Y,None
+208, Waterloo, Maison,Villa," 799,000 ", Maison,8,3,,,,,,,8,,Y,None
+209, Gent-Sint-Pieters, Huis,Villa," 799,000 ", Huis,5,"4.628,48",,,,,,,"29.137,91",,Y,None
+210, Waterloo , Maison,Maison," 799,000 ", Maison,9,3,,,,,,,9,,Y,None
+211, Waterloo, Maison,Villa," 798,500 ", Maison,9,2,,,,,,,11,,Y,None
+212, Schaerbeek , House,House," 795,000 ", House,6,"2,690.98",,,,,,,"4,671.54",,Y,None
+213, East and surroundings, House,Investment / Residential investment," 795,000 ", House,None,"1,636.11",,,,,,,"795,000",,Y,None
+214, Chaumont-Gistoux/Dion/Bonlez , Maison,Villa," 795,000 ", Maison,7,2,,,,,,,38,,Y,None
+215, Waterloo, Maison,Villa," 795,000 ", Maison,6,2,,,,,,,19,,Y,None
+216, Bousval / Genappe , House,Villa," 795,000 ", House,8,"3,810.42",,,,,,,"41,505.64",,Y,None
+217, Rixensart/Limal , Maison,Villa," 795,000 ", Maison,9,2,,,,,,,"1,57",,Y,None
+218, Waterloo , Maison,Villa," 795,000 ", Maison,8,6,,,,,,,19,,Y,None
+219, Noord-Limburg, Huis,Villa," 795,000 ", Huis,14,"9.149,32",,,,,,,"27.986,17",,Y,None
+220, Sint-Denijs-Westrem, Huis,Villa," 795,000 ", Huis,9,"4.047,23",,,,,,,"11.915,65",,Y,None
+221, Antwerpen-Noord, Huis,Villa," 795,000 ", Huis,6,"3.282,99",,,,,,,"2,58",,Y,None
+222, Antwerpen-Noord , Huis,Villa," 790,000 ", Huis,7,"4.520,84",,,,,,,"790,000",,Y,None
+223, Antwerpen-Noord, Huis,Villa," 780,000 ", Huis,6,"3.465,98",,,,,,,"40.741,4",,Y,None
+224, Noord-Limburg , Huis,Villa," 775,000 ", Huis,5,"3.519,8",,,,,,,"775,000",,Y,None
+225, Gavere, Huis,Villa," 775,000 ", Huis,7,"4.101,05",,,,,,,"8.385,09",,Y,None
+226, Bruges , House,Finca," 770,000 ", House,10,"4,413.2",,,,,,,3.44,,Y,None
+227, Merelbeke, Huis,Villa," 765,000 ", Huis,7,"3.401,4",,,,,,,"17.233,02",,Y,None
+228, Zemst, House,Villa," 760,000 ", House,9,"3,831.95",,,,,,,"9,590.64",,Y,None
+229, Deinze, Huis,Villa," 760,000 ", Huis,5,"1.851,39",,,,,,,"12.873,64",,Y,None
+230, Antwerpen-Noord, Huis,Villa," 750,000 ", Huis,5,"2.960,08",,,,,,,"23.680,6",,Y,None
+231, Waterloo, Maison,Villa," 750,000 ", Maison,7,2,,,,,,,20,,Y,None
+232, Kortrijk, Huis,Villa," 750,000 ", Huis,5,"4.144,11",,,,,,,"20.257,68",,Y,None
+233, Waterloo , Maison,Villa," 750,000 ", Maison,10,3,,,,,,,16,,Y,None
+234, Antwerpen-Noord, Huis,Villa," 749,000 ", Huis,6,"5.155,91",,,,,,,"35.693,13",,Y,None
+235, Wavre/Bierges , Maison,Villa," 745,000 ", Maison,6,3,,,,,,,15,,Y,None
+236, Bruges , House,House," 745,000 ", House,5,"2,734.03",,,,,,,"4,897.58",,Y,None
+237, Antwerpen-Noord, Huis,Villa," 745,000 ", Huis,6,"4.197,93",,,,,,,"1,42",,Y,None
+238, Lasne/Ohain , Maison,Villa," 740,000 ", Maison,7,2,,,,,,,20,,Y,None
+239, Bruges, House,Villa," 735,000 ", House,7,"6,275.36",,,,,,,"14,316",,Y,None
+240, Braine-L'alleud/Lillois/Ophain , Maison,Autre," 725,000 ", Maison,4,4,,,,,,,"16,06",,Y,None
+241, South and surroundings, House,Detached House," 699,000 ", House,5,"2,335.77",,,,,,,"699,000",,Y,None
+242, Antwerpen-Noord, Huis,Villa," 699,000 ", Huis,6,"2.712,51",,,,,,,"26.360,82",,Y,None
+243, Oostkamp, Huis,Villa," 699,000 ", Huis,5,"5.112,86",,,,,,,"26.694,5",,Y,None
+244, Nord - Ouest , House,Villa," 695,000 ", House,6,"2,260.42",,,,,,,"7,265.64",,Y,None
+245, Drongen, Huis,Villa," 695,000 ", Huis,5,"3.229,17",,,,,,,"10.548,63",,Y,None
+246, Oosterzele, Huis,Ander(e)," 695,000 ", Huis,6,"2.798,62",,,,,,,"28.675,06",,Y,None
+247, Brussels city center , House,Investment / Residential investment," 695,000 ", House,8,"2,045.14",,,,,,,"695,000",,Y,None
+248, Lasne/Ohain , Maison,Villa," 695,000 ", Maison,6,1,,,,,,,"1,4",,Y,None
+249, Antwerpen-Noord, Huis,Villa," 695,000 ", Huis,8,"3.336,81",,,,,,,"10.882,31",,Y,None
+250, Waterloo , Maison,Maison détachée," 695,000 ", Maison,6,2,,,,,,,10,,Y,None
+251, Antwerpen-Noord, Huis,Villa," 685,000 ", Huis,5,"3.229,17",,,,,,,"21.021,92",,Y,None
+252, Oostkamp , Huis,Landhuis," 680,000 ", Huis,8,"5.112,86",,,,,,,"2,26",,Y,None
+253, Brussels city center , House,Investment / Residential investment," 675,000 ", House,None,"675,000",,,,,,,None,,Y,None
+254, Beauvechain/Tourinnes-la-Grosse , Maison,Maison," 675,000 ", Maison,7,2,,,,,,,"1,28",,Y,None
+255, Waterloo, Maison,Villa," 675,000 ", Maison,7,2,,,,,,,15,,Y,None
+256, Waterloo, Maison,Villa," 670,000 ", Maison,6,2,,,,,,,7,,Y,None
+257, Liège, Maison,Villa," 670,000 ", Maison,8,3,,,,,,,49,,Y,None
+258, Antwerpen-Noord, Huis,Villa," 669,500 ", Huis,6,"2.583,34",,,,,,,"669,500",,Y,None
+259, Koksijde , House,Villa," 654,000 ", House,6,"2,152.78",,,,,,,"6,307.65",,Y,None
+260, Neupré et environs, Maison,Autre," 650,000 ", Maison,6,6,,,,,,,"2,22",,Y,None
+261, Chaumont-Gistoux/Dion/Bonlez , Maison,Maison détachée," 650,000 ", Maison,6,2,,,,,,,45,,Y,None
+262, Braine-L'alleud/Lillois/Ophain , Maison,Villa," 650,000 ", Maison,5,2,,,,,,,15,,Y,None
+263, Walhain-Saint-Paul , Maison,Maison détachée," 650,000 ", Maison,7,2,,,,,,,15,,Y,None
+264, Lasne/Ohain , Maison,Villa," 650,000 ", Maison,7,3,,,,,,,31,,Y,None
+265, Chaumont-Gistoux/Dion/Bonlez , Maison,Maison détachée," 650,000 ", Maison,8,3,,,,,,,16,,Y,None
+266, Lasne/Ohain , Maison,Maison détachée," 650,000 ", Maison,7,1,,,,,,,20,,Y,None
+267, Namur , Maison,Maison détachée," 650,000 ", Maison,7,3,,,,,,,"1,51",,Y,None
+268, Noord-Limburg, Huis,Huis," 650,000 ", Huis,5,"3.229,17",,,,,,,"650,000",,Y,None
+269, Brussels city center , House,Investment / Residential investment," 649,000 ", House,3,"649,000",,,,,,,None,,Y,None
+270, Antwerpen-Centrum , Huis,Huis," 649,000 ", Huis,12,"2.421,88",,,,,,,"649,000",,Y,None
+271, Antwerpen-Noord, Huis,Villa," 649,000 ", Huis,5,"2.368,06",,,,,,,"649,000",,Y,None
+272, Braine-L'alleud/Lillois/Ophain, Maison,Villa," 649,000 ", Maison,6,2,,,,,,,31,,Y,None
+273, Waterloo, Maison,Villa," 640,000 ", Maison,6,2,,,,,,,17,,Y,None
+274, Antwerpen-Noord, Huis,Villa," 639,000 ", Huis,6,"3.175,35",,,,,,,"639,000",,Y,None
+275, Noord-Limburg , Huis,Villa," 639,000 ", Huis,4,"9.170,85",,,,,,,"639,000",,Y,None
+276, Waterloo, Maison,Bungalow," 635,000 ", Maison,4,1,,,,,,,7,,Y,None
+277, Oosterzele, Huis,Vrijstaande woning," 630,000 ", Huis,3,"1.883,68",,,,,,,"19.859,41",,Y,None
+278, Lillois , Maison,Villa," 595,000 ", Maison,6,1,,,,,,,17,,Y,None
+279, East and surroundings, House,House," 595,000 ", House,6,"1,689.93",,,,,,,"1,991.32",,Y,None
+280, Nord - Ouest , House,Villa," 595,000 ", House,5,"2,368.06",,,,,,,"13,993.08",,Y,None
+281, Nivelles, Maison,Villa," 595,000 ", Maison,9,2,,,,,,,6,,Y,None
+282, Bruges, House,House," 595,000 ", House,6,"1,614.59",,,,,,,904.17,,Y,None
+283, Keerbergen, House,Villa," 595,000 ", House,6,"2,174.31",,,,,,,"36,898.68",,Y,None
+284, Antwerpen-Noord, Huis,Villa," 595,000 ", Huis,5,"1.937,5",,,,,,,"11.334,4",,Y,None
+285, Antwerpen-Noord, Huis,Villa," 585,000 ", Huis,5,"2.346,53",,,,,,,"28.104,57",,Y,None
+286, Antwerpen-Noord, Huis,Villa," 585,000 ", Huis,5,"2.346,53",,,,,,,"28.083,04",,Y,None
+287, Bruges , House,Detached House," 585,000 ", House,7,"2,368.06",,,,,,,"15,564.61",,Y,None
+288, Waterloo, Maison,Villa," 585,000 ", Maison,5,2,,,,,,,8,,Y,None
+289, Noord-Limburg , Huis,Villa," 585,000 ", Huis,5,"3.186,12",,,,,,,"21.312,54",,Y,None
+290, Antwerpen-Noord, Huis,Villa," 585,000 ", Huis,6,"2.368,06",,,,,,,"21.743,1",,Y,None
+291, Bruges, House,Detached House," 575,000 ", House,5,"2,098.96",,,,,,,"575,000",,Y,None
+292, Braine-L'alleud/Lillois/Ophain , Maison,Villa," 575,000 ", Maison,6,3,,,,,,,5,,Y,None
+293, Nivelles, Maison,Villa," 575,000 ", Maison,5,2,,,,,,,19,,Y,None
+294, Kortrijk , Huis,Villa," 575,000 ", Huis,8,"3.229,17",,,,,,,"575,000",,Y,None
+295, Waterloo , Maison,Villa," 560,000 ", Maison,6,1,,,,,,,10,,Y,None
+296, Antwerpen-Noord, Huis,Villa," 560,000 ", Huis,5,"2.228,13",,,,,,,"12.916,69",,Y,None
+297, Noord-Limburg , Huis,Investering / Woon- en werkruimte," 550,000 ", Huis,10,"2.260,42",,,,,,,"550,000",,Y,None
+298, Nivelles , Maison,Villa," 550,000 ", Maison,5,1,,,,,,,17,,Y,None
+299, Lasne/Ohain , Maison,Maison détachée," 550,000 ", Maison,4,1,,,,,,,5,,Y,None
+300, Mechelen, House,Investment / Residential investment," 550,000 ", House,None,"550,000",,,,,,,None,,Y,None
+301, Lasne/Ohain , Maison,Villa," 549,000 ", Maison,6,1,,,,,,,7,,Y,None
+302, East and surroundings, House,House," 545,000 ", House,4,"1,560.77",,,,,,,"2,411.12",,Y,None
+303, East and surroundings, House,House," 545,000 ", House,4,"1,862.16",,,,,,,"4,294.8",,Y,None
+304, Waterloo, Maison,Villa," 545,000 ", Maison,6,1,,,,,,,7,,Y,None
+305, Hesbaye - nord ouest, Maison,Autre," 545,000 ", Maison,9,5,,,,,,,35,,Y,None
+306, Deinze, Huis,Vrijstaande woning," 545,000 ", Huis,4,"2.464,94",,,,,,,"14.455,93",,Y,None
+307, Antwerpen-Noord, Huis,Villa," 539,000 ", Huis,5,"2.357,3",,,,,,,"21.323,31",,Y,None
+308, Mechelen, House,House," 538,000 ", House,5,"2,292.71",,,,,,,"3,982.65",,Y,None
+309, Antwerpen-Noord, Huis,Villa," 535,000 ", Huis,4,"2.690,98",,,,,,,"20.989,63",,Y,None
+310, Lasne/Ohain , Maison,Villa," 535,000 ", Maison,None,12,,,,,,,"535,000",,Y,None
+311, Bruges, House,Investment / Residential investment," 530,000 ", House,11,"8,180.57",,,,,,,"530,000",,Y,None
+312, Bruges, House,House," 525,000 ", House,5,"1,528.48",,,,,,,678.13,,Y,None
+313, Keerbergen , House,Villa," 515,000 ", House,5,"3,552.09",,,,,,,"14,746.56",,Y,None
+314, Huy et environs, Maison,Maison détachée," 497,000 ", Maison,6,2,,,,,,,"497,000",,Y,None
+315, De Haan , Huis,Huis," 495,000 ", Huis,7,"5.920,15",,,,,,,"7.577,79",,Y,None
+316, Braine-L'alleud/Lillois/Ophain, Maison,Villa," 495,000 ", Maison,4,1,,,,,,,10,,Y,None
+317, Antwerpen-Zuid, Huis,Huis," 495,000 ", Huis,5,"1.722,23",,,,,,,"3.961,12",,Y,None
+318, Noord-Limburg , Huis,Huis," 495,000 ", Huis,3,"2.142,02",,,,,,,"495,000",,Y,None
+319, Braine-L'alleud/Lillois/Ophain, Maison,Maison détachée," 495,000 ", Maison,6,1,,,,,,,5,,Y,None
+320, Hesbaye - nord ouest, Maison,Maison," 495,000 ", Maison,7,3,,,,,,,4,,Y,None
+321, Rixensart/Limal , Maison,Villa," 495,000 ", Maison,7,2,,,,,,,9,,Y,None
+322, Lasne/Ohain , Maison,Maison," 495,000 ", Maison,4,1,,,,,,,19,,Y,None
+323, Brussels city center , House,House," 490,000 ", House,6,"2,098.96",,,,,,,"490,000",,Y,None
+324, Noord-Limburg , Huis,Vrijstaande woning," 485,000 ", Huis,5,"2.852,44",,,,,,,"21.721,57",,Y,None
+325, Antwerpen-Noord, Huis,Huis," 485,000 ", Huis,4,"1.905,21",,,,,,,"6.458,35",,Y,None
+326, Antwerpen-Noord, Huis,Villa," 485,000 ", Huis,4,"1.937,5",,,,,,,"5.145,15",,Y,None
+327, Liège, Maison,Établissement historique," 475,000 ", Maison,6,2,,,,,,,1,,Y,None
+328, Antwerpen-Noord, Huis,Villa," 475,000 ", Huis,6,"2.906,26",,,,,,,"6.996,54",,Y,None
+329, Waterloo, Maison,Maison détachée," 475,000 ", Maison,6,2,,,,,,,14,,Y,None
+330, Antwerpen-Noord, Huis,Huis," 475,000 ", Huis,4,"1.840,63",,,,,,,"6.458,35",,Y,None
+331, Lasne/Ohain , Maison,Maison," 475,000 ", Maison,3,1,,,,,,,9,,Y,None
+332, Antwerpen-Zuid, Huis,Vrijstaande woning," 470,000 ", Huis,5,"1.668,41",,,,,,,"2.852,44",,Y,None
+333, Mechelen , House,House," 465,000 ", House,4,"2,540.28",,,,,,,"10,871.55",,Y,None
+334, Antwerpen-Noord, Huis,Vrijstaande woning," 465,000 ", Huis,4,"1.851,39",,,,,,,"6.458,35",,Y,None
+335, Lasne/Ohain , Maison,Maison détachée," 460,000 ", Maison,5,1,,,,,,,4,,Y,None
+336, Brussels city center , House,Investment / Residential investment," 460,000 ", House,None,None,,,,,,,None,,Y,None
+337, Embourg et environs, Maison,Maison," 460,000 ", Maison,7,4,,,,,,,"460,000",,Y,None
+338, Antwerpen-Noord, Huis,Huis," 460,000 ", Huis,5,"1.732,99",,,,,,,"6.458,35",,Y,None
+339, Nivelles, Maison,Villa," 450,000 ", Maison,6,1,,,,,,,10,,Y,None
+340, Seneffe , Maison,Autre," 450,000 ", Maison,7,2,,,,,,,34,,Y,None
+341, Seneffe, Maison,Finca," 450,000 ", Maison,6,2,,,,,,,9,,Y,None
+342, Noord-Limburg, Huis,Vrijstaande woning," 445,000 ", Huis,6,"3.013,89",,,,,,,"8.406,61",,Y,None
+343, Noord-Limburg, Huis,Vrijstaande woning," 439,000 ", Huis,5,"3.229,17",,,,,,,"8.804,88",,Y,None
+344, Waterloo, Maison,Maison détachée," 430,000 ", Maison,6,1,,,,,,,4,,Y,None
+345, Antwerpen-Noord, Huis,Vrijstaande woning," 425,000 ", Huis,5,"1.722,23",,,,,,,"425,000",,Y,None
+346, Valée de l'Ourthe and surroundings, Maison,Villa," 419,000 ", Maison,8,2,,,,,,,"419,000",,Y,None
+347, Embourg et environs, Maison,Maison," 415,000 ", Maison,5,3,,,,,,,5,,Y,None
+348, Huy et environs, Maison,Établissement historique," 409,000 ", Maison,5,2,,,,,,,"409,000",,Y,None
+349, Noord-Limburg, Huis,Vrijstaande woning," 399,000 ", Huis,5,"3.896,54",,,,,,,"9.149,32",,Y,None
+350, Liège, Maison,Investissement," 395,000 ", Maison,6,1,,,,,,,"395,000",,Y,None
+351, Liège, Maison,Maison," 395,000 ", Maison,9,3,,,,,,,2,,Y,None
+352, Neupré et environs, Maison,Villa," 390,000 ", Maison,5,1,,,,,,,34,,Y,None
+353, Huy et environs, Maison,Villa," 387,000 ", Maison,5,2,,,,,,,"387,000",,Y,None
+354, Hesbaye - nord ouest, Maison,Investissement," 375,000 ", Maison,6,2,,,,,,,5,,Y,None
+355, Lasne/Ohain , Maison,Maison," 375,000 ", Maison,None,"375,000",,,,,,,None,,Y,None
+356, Kortrijk, Huis,Vrijstaande woning," 365,260 ", Huis,4,"11.129,88",,,,,,,"365,260",,Y,None
+357, Neupré et environs, Maison,Maison," 360,000 ", Maison,4,1,,,,,,,7,,Y,None
+358, Noord-Limburg, Huis,Huis," 355,000 ", Huis,4,"5.198,97",,,,,,,"355,000",,Y,None
+359, Noord-Limburg, Huis,Huis," 355,000 ", Huis,4,"5.123,62",,,,,,,"355,000",,Y,None
+360, Noord-Limburg, Huis,Huis," 355,000 ", Huis,4,"5.134,39",,,,,,,"355,000",,Y,None
+361, Noord-Limburg, Huis,Huis," 355,000 ", Huis,4,"5.177,44",,,,,,,"355,000",,Y,None
+362, Valée de l'Ourthe and surroundings, House,Villa," 349,000 ", House,3,"1,528.48",,,,,,,"8,826.41",,Y,None
+363, Neupré et environs, Maison,Maison," 330,000 ", Maison,6,2,,,,,,,7,,Y,None
+364, Wavre/Bierges , Maison,Maison," 327,780 ", Maison,5,1,,,,,,,5,,Y,None
+365, Liège, Maison,Maison détachée," 325,000 ", Maison,6,1,,,,,,,16,,Y,None
+366, Zedelgem, House,Investment / Residential investment," 304,000 ", House,None,"6,609.04",,,,,,,"304,000",,Y,None
+367, Bousval / Genappe , Maison,Maison," 295,000 ", Maison,5,1,,,,,,,5,,Y,None
+368, Huy et environs, Maison,Villa," 295,000 ", Maison,5,1,,,,,,,"295,000",,Y,None
+369, Noord-Limburg, Huis,Vrijstaande woning," 289,000 ", Huis,4,"2.690,98",,,,,,,"6.275,36",,Y,None
+370, Neupré et environs, Maison,Bungalow," 285,000 ", Maison,5,1,,,,,,,11,,Y,None
+371, Spa et environs, Maison,Villa," 279,000 ", Maison,None,6,,,,,,,"279,000",,Y,None
+372, Noord-Limburg, Huis,Vrijstaande woning," 275,000 ", Huis,5,"2.690,98",,,,,,,"10.333,35",,Y,None
+373, Kortrijk , Huis,Huis," 249,000 ", Huis,4,"1.345,49",,,,,,,"249,000",,Y,None
+374, Hesbaye - nord ouest, Maison,Maison détachée," 244,500 ", Maison,4,"244,500",,,,,,,None,,Y,None
+375, Noord-Limburg , Huis,Vrijstaande woning," 229,000 ", Huis,4,"1.506,95",,,,,,,"229,000",,Y,None
+376, Noord-Limburg , Huis,Vrijstaande woning," 229,000 ", Huis,4,"1.506,95",,,,,,,"229,000",,Y,None
+377, Noord-Limburg , Huis,Vrijstaande woning," 229,000 ", Huis,4,"1.506,95",,,,,,,"229,000",,Y,None
+378, Noord-Limburg , Huis,Huis," 224,900 ", Huis,4,1.550,,,,,,,"2.088,2",,Y,None
+379, Liège, Maison,Maison," 199,000 ", Maison,None,1,,,,,,,"199,000",,Y,None
+380, Seneffe, Maison,Maison," 195,000 ", Maison,4,1,,,,,,,2,,Y,None
+381, Zedelgem, Huis,Investering / Woon- en werkruimte," 171,000 ", Huis,None,None,,,,,,,None,,Y,None
+382, Kortrijk , Huis,Investering / Woon- en werkruimte," 82,875 ", Huis,None,None,,,,,,,None,,Y,None
+383, Antwerpen-Noord , Huis,Villa, (op aanvraag) , Huis,6,"3.659,73",,,,,,,"21.850,74",,Y,None
+384, Kortrijk , Huis,Bungalow, (op aanvraag) , Huis,4,"3.390,63",,,,,,,(op,,Y,None
+385, Antwerpen-Noord, Huis,Villa, (op aanvraag) , Huis,11,"5.166,68",,,,,,,"2,24",,Y,None
+386, Antwerpen-Noord, Huis,Villa, (op aanvraag) , Huis,10,"7.857,65",,,,,,,"1,92",,Y,None
+387, Brussels city center , House,Villa, (On Request) , House,8,"4,574.66",,,,,,,(On,,Y,None
+388, Sint-Martens-Latem, Huis,Villa, (op aanvraag) , Huis,6,2.325,,,,,,,"20.505,25",,Y,None
+389, Waregem, Huis,Vrijstaande woning, (op aanvraag) , Huis,None,None,,,,,,,None,,Y,None
+390, Antwerpen-Noord, Huis,Villa, (op aanvraag) , Huis,11,"9.526,06",,,,,,,"1,37",,Y,None
+391, Bruges, House,House, (On Request) , House,6,"2,152.78",,,,,,,"1,894.45",,Y,None
+392, Kortrijk , Huis,Huis, (op aanvraag) , Huis,3,"3.229,17",,,,,,,(op,,Y,None
+393, De Pinte, Huis,Historische pand, (op aanvraag) , Huis,2,"3.875,01",,,,,,,"48.749,75",,Y,None
+394, Antwerpen-Centrum , Huis,Investering / Woon- en werkruimte, (op aanvraag) , Huis,10,(op,,,,,,,None,,Y,None
+395, De Haan , House,Villa, (On Request) , House,11,"5,134.39",,,,,,,"25,230.61",,Y,None
+396, De Haan , House,House, (On Request) , House,7,"3,143.06",,,,,,,"1,399.31",,Y,None
+397, Sint-Martens-Latem, Huis,Vrijstaande woning, (op aanvraag) , Huis,10,"5.338,9",,,,,,,"31.430,62",,Y,None
+398, Kortrijk , Huis,Villa, (op aanvraag) , Huis,5,"2.690,98",,,,,,,"8.083,7",,Y,None
+399, Zedelgem , House,Villa, (On Request) , House,5,"4,854.52",,,,,,,4.26,,Y,None
+400, Antwerpen-Zuid, Huis,Villa, (op aanvraag) , Huis,11,"11.840,3",,,,,,,"30.451,1",,Y,None
+401, Kortrijk, Huis,Huis, (op aanvraag) , Huis,5,"5.920,15",,,,,,,(op,,Y,None
+402, Kortrijk , Huis,Villa, (op aanvraag) , Huis,7,"3.390,63",,,,,,,(op,,Y,None
+403, De Haan , House,Villa, (On Request) , House,5,"2,669.45",,,,,,,"5,704.87",,Y,None
+404, Kortrijk , Huis,Villa, (op aanvraag) , Huis,5,"3.498,27",,,,,,,(op,,Y,None
+405, Kortrijk, Huis,Huis, (op aanvraag) , Huis,4,"1.722,23",,,,,,,(op,,Y,None
+406, Bruges, Huis,Investering / Woon- en werkruimte, (op aanvraag) , Huis,5,"2.518,76",,,,,,,"1.001,04",,Y,None
+407, Kortrijk, Huis,Vrijstaande woning, (op aanvraag) , Huis,5,"14.466,7",,,,,,,"12.001,76",,Y,None
+408, Jabbeke, House,Villa, (On Request) , House,4,"2,411.12",,,,,,,"8,503.49",,Y,None
+409, Bruges , Huis,Investering / Woon- en werkruimte, (op aanvraag) , Huis,None,"12.001,76",,,,,,,(op,,Y,None
+410, Sint-Martens-Latem, Huis,Vrijstaande woning, (op aanvraag) , Huis,6,"4.305,56",,,,,,,"30.138,95",,Y,None
+411, Nevele, Huis,Villa, (op aanvraag) , Huis,7,"3.013,89",,,,,,,"21.883,03",,Y,None
+412, Bruges, Huis,Investering / Woon- en werkruimte, (op aanvraag) , Huis,2,"1.399,31",,,,,,,"1.593,06",,Y,None
+413, Mechelen, House,House, (On Request) , House,8,"4,348.62",,,,,,,"4,036.47",,Y,None
+414, Bruges, House,House, (On Request) , House,4,"1,614.59",,,,,,,839.59,,Y,None
+415, Bruges, House,Detached House, (On Request) , House,4,"1,259.38",,,,,,,"10,322.59",,Y,None
+416, Mechelen, House,Historic Estate, (On Request) , House,10,"10,763.91",,,,,,,"4,413.2",,Y,None
+417, Lovendegem , Huis,Villa, (op aanvraag) , Huis,None,"3,21",,,,,,,(op,,Y,None
+418, Noord-Limburg, Huis,Villa, (op aanvraag) , Huis,10,"10.333,35",,,,,,,"8,2",,Y,None
+419, Bruges, House,Bungalow, (On Request) , House,4,"1,259.38",,,,,,,"4,391.68",,Y,None
+420, Bruges, House,Investment / Residential investment, (On Request) , House,4,"2,400.35",,,,,,,"2,400.35",,Y,None
+421, Gent-Centrum, Huis,Historische pand, (op aanvraag) , Huis,None,(op,,,,,,,None,,Y,None
+422, Antwerpen-Noord, Huis,Villa, (op aanvraag) , Huis,6,"6.458,35",,,,,,,"1,46",,Y,None
+423, Bruges, House,Historic Estate, (On Request) , House,8,"5,037.51",,,,,,,"6,501.4",,Y,None
+424, Bruges, House,House, (On Request) , House,9,"4,122.58",,,,,,,"3,993.41",,Y,None
+425, De Haan , House,Villa, (On Request) , House,5,"2,583.34",,,,,,,"6,705.92",,Y,None
+426, Zemst, House,House, (On Request) , House,4,"1,937.5",,,,,,,"1,506.95",,Y,None
+427, Nevele, House,Historic Estate, (On Request) , House,9,"4,359.38",,,,,,,2.47,,Y,None
+428, Mechelen , House,Villa, (On Request) , House,6,"3,821.19",,,,,,,2.07,,Y,None
+429, Bruges, House,Historic Estate, (On Request) , House,15,"11,829.54",,,,,,,"2,303.48",,Y,None
+430, Antwerpen-Noord, Huis,Villa, (op aanvraag) , Huis,4,"1.722,23",,,,,,,"39.783,41",,Y,None
+431, Nivelles , Maison,Établissement historique, (sur demande) , Maison,10,6,,,,,,,"7,41",,Y,None
+432, Bruges , Huis,Villa, (op aanvraag) , Huis,5,"2.551,05",,,,,,,"13.993,08",,Y,None
+433, Nazareth, Huis,Landhuis, (op aanvraag) , Huis,5,"3.013,89",,,,,,,"25.833,39",,Y,None
+434, Gent-Sint-Pieters, Huis,Huis, (op aanvraag) , Huis,5,"2.690,98",,,,,,,"1.937,5",,Y,None
+435, Bruges, Huis,Huis, (op aanvraag) , Huis,6,"3.326,05",,,,,,,(op,,Y,None
+436, Braine-le-Château, Maison,Établissement historique, (sur demande) , Maison,4,3,,,,,,,"2,32",,Y,None
+437, Bruges, House,Investment / Residential investment, (On Request) , House,None,(On,,,,,,,None,,Y,None
+438, Bruges, Huis,Huis, (op aanvraag) , Huis,3,"721,18",,,,,,,"871,88",,Y,None
+439, Naburige steden , Huis,Villa, (op aanvraag) , Huis,6,"4.197,93",,,,,,,"1,31",,Y,None
+440, Bruges, House,Historic Estate, (On Request) , House,16,"8,611.13",,,,,,,"3,562.85",,Y,None
+441, Jabbeke, House,Villa, (On Request) , House,6,"3,735.08",,,,,,,3.56,,Y,None
+442, Steenokkerzeel, House,Villa, (On Request) , House,8,"6,458.35",,,,,,,2.52,,Y,None
+443, Bruges, House,House, (On Request) , House,5,"1,184.03",,,,,,,538.2,,Y,None
+444, Steenokkerzeel, House,Villa, (On Request) , House,7,"3,487.51",,,,,,,"46,973.71",,Y,None
+445, Antwerpen-Noord, Huis,Villa, (op aanvraag) , Huis,5,"1.937,5",,,,,,,"10.440,99",,Y,None
+446, Naburige steden , Huis,Historische pand, (op aanvraag) , Huis,16,"8.255,92",,,,,,,"4,98",,Y,None
+447, Gent-Sint-Pieters, Huis,Villa, (op aanvraag) , Huis,7,"3.971,88",,,,,,,"20.150,04",,Y,None
+448, Bruges, House,Villa, (On Request) , House,5,"5,855.57",,,,,,,"53,528.93",,Y,None
+449, Bruges , House,House, (On Request) , House,5,"2,777.09",,,,,,,"22,711.85",,Y,None
+450, Merelbeke , Huis,Villa, (op aanvraag) , Huis,6,"2.260,42",,,,,,,"8.363,56",,Y,None
+451, Bruges, House,House, (On Request) , House,5,"1,420.84",,,,,,,"2,820.14",,Y,None
+452, Jabbeke, Huis,Villa, (op aanvraag) , Huis,6,"1,49",,,,,,,(op,,Y,None
+453, South and surroundings, House,Villa, (On Request) , House,8,"4,574.66",,,,,,,(On,,Y,None
+454, Bruges, Huis,Villa, (op aanvraag) , Huis,4,"2.432,64",,,,,,,"15.306,28",,Y,None
+455, Merelbeke, Huis,Villa, (op aanvraag) , Huis,4,"2.260,42",,,,,,,"6.673,62",,Y,None
+456, De Haan , Huis,Villa, (op aanvraag) , Huis,6,"5.166,68",,,,,,,"25.219,84",,Y,None
+457, De Haan , House,Other, (On Request) , House,6,"3,229.17",,,,,,,28.93,,Y,None
+458, Haacht , House,Villa, (On Request) , House,8,"3,164.59",,,,,,,"32,291.73",,Y,None
+459, Bruges, Huis,Bungalow, (op aanvraag) , Huis,4,1.550,,,,,,,"10.494,81",,Y,None
+460, Sint Katelijne Waver, House,Villa, (On Request) , House,6,"3,013.89",,,,,,,"14,165.31",,Y,None
+461, Kampenhout , House,Villa, (On Request) , House,16,"6,781.26",,,,,,,"25,833.39",,Y,None
+462, Bruges, Huis,Investering / Woon- en werkruimte, (op aanvraag) , Huis,8,"3.229,17",,,,,,,"968,75",,Y,None
+463, South and surroundings, House,Historic Estate, (On Request) , House,None,None,,,,,,,None,,Y,None
+464, Bruges, Huis,Investering / Woon- en werkruimte, (op aanvraag) , Huis,6,"2.594,1",,,,,,,"4.951,4",,Y,None
+465, Keerbergen, House,Villa, (On Request) , House,6,"6,652.1",,,,,,,4.81,,Y,None
+466, Oostkamp, Huis,Villa, (op aanvraag) , Huis,5,"5.274,32",,,,,,,"49.180,31",,Y,None
+467, Bruges, House,Investment / Residential investment, (On Request) , House,5,"2,098.96",,,,,,,828.82,,Y,None
+468, Antwerpen-Noord, Huis,Villa, (op aanvraag) , Huis,7,"3.390,63",,,,,,,"26.920,54",,Y,None
+469, Bruges, House,House, (On Request) , House,4,"2,228.13",,,,,,,914.93,,Y,None
+470, Bruges, House,House, (On Request) , House,8,"2,960.08",,,,,,,"1,205.56",,Y,None
+471, Steenokkerzeel, Huis,Huis, (op aanvraag) , Huis,7,"2.583,34",,,,,,,"8.126,75",,Y,None
+472, Seneffe, Maison,Établissement historique, (sur demande) , Maison,19,8,,,,,,,"23,56",,Y,None
+473, Bruges, House,House, (On Request) , House,3,"1,130.21",,,,,,,(On,,Y,None
+474, South and surroundings, House,Historic Estate, (On Request) , House,12,"8,611.13",,,,,,,(On,,Y,None
+475, Damme, House,Detached House, (On Request) , House,6,"2,368.06",,,,,,,"2,002.09",,Y,None
+476, Steenokkerzeel, House,Villa, (On Request) , House,5,"1,840.63",,,,,,,"9,956.62",,Y,None
+477, Oostkamp, Huis,Villa, (op aanvraag) , Huis,5,"2.314,24",,,,,,,"23.895,88",,Y,None
+478, Koksijde , House,Villa, (On Request) , House,5,"2,690.98",,,,,,,"21,656.99",,Y,None
+479, Bruges, House,Villa, (On Request) , House,5,"3,336.81",,,,,,,"9,332.31",,Y,None
+480, Naburige steden , Huis,Historische pand, (op aanvraag) , Huis,8,"9.149,32",,,,,,,(op,,Y,None
+481, Bruges , House,House, (On Request) , House,6,"2,960.08",,,,,,,"3,412.16",,Y,None
+482, Bruges, House,House, (On Request) , House,6,"2,497.23",,,,,,,"1,463.89",,Y,None
+483, Sint Katelijne Waver, House,Villa, (On Request) , House,7,"3,627.44",,,,,,,"35,822.29",,Y,None
+484, Bruges , Huis,Hotel, (op aanvraag) , Huis,12,"3.089,24",,,,,,,"2.572,57",,Y,None
+485, Bruges, House,Special Property, (On Request) , House,4,"1,937.5",,,,,,,"1,808.34",,Y,None
+486, Bruges, House,Villa, (On Request) , House,7,"2,475.7",,,,,,,"10,871.55",,Y,None
+487, Damme, House,Villa, (On Request) , House,8,"3,616.67",,,,,,,"2,701.74",,Y,None
+488, Oostkamp, Huis,Huis, (op aanvraag) , Huis,5,"2.421,88",,,,,,,"6.243,07",,Y,None
+489, Oostkamp, Huis,Villa, (op aanvraag) , Huis,6,"2.475,7",,,,,,,"9.073,98",,Y,None
+490, Bruges , House,House, (On Request) , House,4,968.75,,,,,,,"3,003.13",,Y,None
+491, Bruges, House,House, (On Request) , House,4,"2,368.06",,,,,,,(On,,Y,None
+492, Bruges, House,House, (On Request) , House,4,"1,980.56",,,,,,,"1,001.04",,Y,None
+493, Oostkamp, Huis,Villa, (op aanvraag) , Huis,7,"2.798,62",,,,,,,"34.875,07",,Y,None
+494, Bonheiden, House,Villa, (On Request) , House,5,"2,163.55",,,,,,,"36,747.99",,Y,None
+495, De Haan , House,Villa, (On Request) , House,5,"2,540.28",,,,,,,"10,096.55",,Y,None
+496, De Haan , House,Villa, (On Request) , House,7,"4,574.66",,,,,,,"17,685.1",,Y,None
+497, Oostkamp, Huis,Villa, (op aanvraag) , Huis,6,"3.143,06",,,,,,,"1,48",,Y,None
+498, Kampenhout, House,Villa, (On Request) , House,6,"2,690.98",,,,,,,"22,604.21",,Y,None
+499, De Haan , House,Villa, (On Request) , House,9,"3,229.17",,,,,,,"12,593.78",,Y,None
+500, Sint-Martens-Latem, Huis,Villa, (op aanvraag) , Huis,6,"2.690,98",,,,,,,"30.892,42",,Y,None
+501, Bruges, House,House, (On Request) , House,5,"3,444.45",,,,,,,"2,228.13",,Y,None
+502, Bruges, House,Detached House, (On Request) , House,13,"2,884.73",,,,,,,"6,017.03",,Y,None
+503, Bruges, Huis,Historische pand, (op aanvraag) , Huis,9,"5.166,68",,,,,,,(op,,Y,None
+504, Bruges, House,House, (On Request) , House,3,"2,314.24",,,,,,,"1,959.03",,Y,None
+505, Zemst, House,Historic Estate, (On Request) , House,None,6.2,,,,,,,(On,,Y,None
+506, Steenokkerzeel, House,House, (On Request) , House,6,"1,722.23",,,,,,,"16,145.87",,Y,None
+507, Bruges, House,House, (On Request) , House,3,"2,152.78",,,,,,,(On,,Y,None
+508, Steenokkerzeel, House,House, (On Request) , House,7,"2,830.91",,,,,,,"9,213.91",,Y,None
+509, Zedelgem, Huis,Villa, (op aanvraag) , Huis,7,"3.175,35",,,,,,,"28.524,36",,Y,None
+510, Zemst, House,Historic Estate, (On Request) , House,None,19.77,,,,,,,(On,,Y,None
+511, Bruges, House,Historic Estate, (On Request) , House,7,"2,863.2",,,,,,,"1,829.86",,Y,None
+512, Bruges, Huis,Huis, (op aanvraag) , Huis,7,"3.767,37",,,,,,,"2.690,98",,Y,None
+513, Bruges, House,Historic Estate, (On Request) , House,10,"4,057.99",,,,,,,"2,292.71",,Y,None
+514, Bruges, House,Investment / Residential investment, (On Request) , House,8,"2,152.78",,,,,,,645.83,,Y,None
+515, Bruges, House,Historic Estate, (On Request) , House,5,"3,487.51",,,,,,,"2,529.52",,Y,None
+516, Gent-Centrum, Huis,Huis, (op aanvraag) , Huis,5,"1.399,31",,,,,,,"516,67",,Y,None
+517, Bruges, House,House, (On Request) , House,3,"1,022.57",,,,,,,452.08,,Y,None
+518, Gent-Sint-Pieters, Huis,Villa, (op aanvraag) , Huis,8,"2.927,78",,,,,,,"17.954,2",,Y,None
+519, Zedelgem, House,Villa, (On Request) , House,7,"3,702.79",,,,,,,"30,095.89",,Y,None
+520, Bruges, House,Historic Estate, (On Request) , House,8,"4,036.47",,,,,,,"6,695.15",,Y,None
+521, Bruges, House,House, (On Request) , House,7,"3,218.41",,,,,,,"2,798.62",,Y,None
+522, Bruges, House,House, (On Request) , House,None,"1,453.13",,,,,,,(On,,Y,None
+523, De Haan , House,House, (On Request) , House,6,"1,991.32",,,,,,,(On,,Y,None
+524, De Haan , House,Villa, (On Request) , House,5,"1,915.98",,,,,,,(On,,Y,None
+525, Damme, Huis,Huis, (op aanvraag) , Huis,6,"1.679,17",,,,,,,"5.834,04",,Y,None
+526, Bruges, House,House, (On Request) , House,4,"1,377.78",,,,,,,979.52,,Y,None
+527, Jabbeke, Huis,Huis, (op aanvraag) , Huis,4,"1.496,18",,,,,,,"5.381,96",,Y,None
+528, Sud et péripherie, Maison,Villa, (sur demande) , Maison,11,7,,,,,,,26,,Y,None
+529, Oostkamp, Huis,Ander(e), (op aanvraag) , Huis,8,"3.875,01",,,,,,,"41.484,11",,Y,None
+530, Bruges, House,Detached House, (On Request) , House,4,"1,614.59",,,,,,,"7,986.82",,Y,None
+531, Mechelen, House,House, (On Request) , House,7,"3,875.01",,,,,,,"7,427.1",,Y,None
+532, Oostende, House,Villa, (On Request) , House,6,"1,883.68",,,,,,,"9,364.6",,Y,None
+533, Oostkamp, Huis,Villa, (op aanvraag) , Huis,5,"3.013,89",,,,,,,"12.367,73",,Y,None
+534, Jabbeke, House,Villa, (On Request) , House,10,"4,413.2",,,,,,,22.59,,Y,None
+535, Jabbeke, House,Villa, (On Request) , House,7,"2,583.34",,,,,,,(On,,Y,None
+536, Bruges, Huis,Villa, (op aanvraag) , Huis,9,"4.305,56",,,,,,,"2,44",,Y,None
+537, Bruges, House,House, (On Request) , House,4,"2,454.17",,,,,,,"1,474.66",,Y,None
+538, Zedelgem , Huis,Villa, (op aanvraag) , Huis,5,"16.371,91",,,,,,,(op,,Y,None
+539, Bruges, House,Historic Estate, (On Request) , House,4,"1,356.25",,,,,,,893.4,,Y,None
+540, Oostende, House,Villa, (On Request) , House,8,"4,951.4",,,,,,,"20,731.29",,Y,None
+541, Damme , House,Villa, (On Request) , House,7,"2,798.62",,,,,,,1.53,,Y,None
+542, Bruges, House,Historic Estate, (On Request) , House,9,"3,767.37",,,,,,,5.54,,Y,None
+543, Oostkamp , Huis,Vrijstaande woning, (op aanvraag) , Huis,2,"1.377,78",,,,,,,"5.198,97",,Y,None
+544, Bruges, House,Historic Estate, (On Request) , House,13,"3,799.66",,,,,,,"3,401.4",,Y,None
+545, Oostende, House,Villa, (On Request) , House,6,"2,690.98",,,,,,,"7,104.18",,Y,None
+546, De Haan , House,Villa, (On Request) , House,5,"2,335.77",,,,,,,"6,275.36",,Y,None
+547, Gent-Centrum, Huis,Investering / Woon- en werkruimte, (op aanvraag) , Huis,6,"3.767,37",,,,,,,"1.453,13",,Y,None
+548, Bruges, Huis,Huis, (op aanvraag) , Huis,5,"1.937,5",,,,,,,"2.034,38",,Y,None
+549, Jabbeke, House,Villa, (On Request) , House,4,"2,152.78",,,,,,,2.94,,Y,None
+550, Bruges, House,House, (On Request) , House,6,"2,292.71",,,,,,,"1,829.86",,Y,None
+551, Bruges, House,Investment / Residential investment, (On Request) , House,7,"4,919.11",,,,,,,"4,843.76",,Y,None
+552, Bruges, House,Villa, (On Request) , House,7,"2,841.67",,,,,,,"10,440.99",,Y,None
+553, Bruges, House,Historic Estate, (On Request) , House,11,"8,342.03",,,,,,,17.83,,Y,None
+554, Beernem, House,Villa, (On Request) , House,7,"3,681.26",,,,,,,3.03,,Y,None
+555, Bruges, Huis,Investering / Woon- en werkruimte, (op aanvraag) , Huis,10,"1.399,31",,,,,,,"818,06",,Y,None
+556, Zedelgem, House,Villa, (On Request) , House,8,"5,554.18",,,,,,,"47,608.78",,Y,None
+557, Lasne/Ohain , Maison,Villa, (sur demande) , Maison,8,5,,,,,,,"3,54",,Y,None
+558, South and surroundings, House,House, (On Request) , House,None,(On,,,,,,,None,,Y,None
+559, De Haan , House,Villa, (On Request) , House,5,"2,152.78",,,,,,,"12,077.11",,Y,None
+560, Bruges, House,Historic Estate, (On Request) , House,7,"6,458.35",,,,,,,"8,643.42",,Y,None
+561, Zedelgem, House,Villa, (On Request) , House,5,"2,152.78",,,,,,,(On,,Y,None
+562, Oostkamp, House,House, (On Request) , House,5,"1,474.66",,,,,,,"5,790.98",,Y,None
+563, Oostkamp, House,Historic Estate, (On Request) , House,7,"5,608",,,,,,,"11,947.94",,Y,None
+564, Zedelgem, House,Villa, (On Request) , House,6,"9,310.78",,,,,,,(On,,Y,None
+565, Bruges , Huis,Villa, (op aanvraag) , Huis,7,"4.951,4",,,,,,,"16.490,31",,Y,None
+566, De Haan , House,Villa, (On Request) , House,5,"1,829.86",,,,,,,"14,089.96",,Y,None
+567, Oostende, House,House, (On Request) , House,6,"1,722.23",,,,,,,(On,,Y,None
+568, Jabbeke, House,Villa, (On Request) , House,6,"3,013.89",,,,,,,"13,627.11",,Y,None
+569, Bruges, Huis,Villa, (op aanvraag) , Huis,7,"20.408,37",,,,,,,(op,,Y,None
+570, Oostkamp, Huis,Huis, (op aanvraag) , Huis,4,"1.463,89",,,,,,,"6.921,19",,Y,None
+571, Damme, Huis,Historische pand, (op aanvraag) , Huis,33,"5.489,59",,,,,,,(op,,Y,None
+572, Bruges , Huis,Villa, (op aanvraag) , Huis,7,"3.390,63",,,,,,,"14.725,03",,Y,None
+573, Bruges, Huis,Investering / Woon- en werkruimte, (op aanvraag) , Huis,None,(op,,,,,,,None,,Y,None
+574, Oostende, Huis,Huis, (op aanvraag) , Huis,6,"2.906,26",,,,,,,"1.614,59",,Y,None
+575, Bruges, Huis,Villa, (op aanvraag) , Huis,6,"3.498,27",,,,,,,"7.265,64",,Y,None
+576, Bruges, House,Villa, (On Request) , House,5,"3,444.45",,,,,,,"4,897.58",,Y,None
+577, Jabbeke, House,Historic Estate, (On Request) , House,7,"5,597.23",,,,,,,"20,989.63",,Y,None
+578, De Haan , Huis,Villa, (op aanvraag) , Huis,6,"2.690,98",,,,,,,"9.009,39",,Y,None
+579, Bruges, House,House, (On Request) , House,4,968.75,,,,,,,559.72,,Y,None
+580, Bruges , House,Villa, (On Request) , House,6,"2,561.81",,,,,,,"15,015.66",,Y,None
+581, Bruges, House,House, (On Request) , House,3,957.99,,,,,,,796.53,,Y,None
+582, Bruges , House,Villa, (On Request) , House,7,"3,013.89",,,,,,,"9,396.89",,Y,None
+583, Bruges, House,House, (On Request) , House,4,"1,011.81",,,,,,,516.67,,Y,None
+584, Bruges, House,House, (On Request) , House,6,"4,574.66",,,,,,,"4,811.47",,Y,None
+585, De Haan , Huis,Villa, (op aanvraag) , Huis,9,"3.875,01",,,,,,,"6.673,62",,Y,None
+586, Bruges, Huis,Huis, (op aanvraag) , Huis,4,"1.991,32",,,,,,,"4.531,61",,Y,None
+587, Bruges, Huis,Investering / Woon- en werkruimte, (op aanvraag) , Huis,5,"2.152,78",,,,,,,"893,4",,Y,None
+588, Oostende, Huis,Villa, (op aanvraag) , Huis,4,"2.206,6",,,,,,,"7.965,29",,Y,None
+589, Jabbeke, Huis,Villa, (op aanvraag) , Huis,6,"3.659,73",,,,,,,"26.855,96",,Y,None
+590, Jabbeke, Huis,Villa, (op aanvraag) , Huis,4,"2.421,88",,,,,,,"9.644,46",,Y,None
+591, Oostende, Huis,Huis, (op aanvraag) , Huis,5,"5.381,96",,,,,,,"2.551,05",,Y,None
+592, Bruges, Huis,Villa, (op aanvraag) , Huis,6,"2.798,62",,,,,,,"33.734,1",,Y,None
+593, Bruges, Huis,Huis, (op aanvraag) , Huis,6,"2.314,24",,,,,,,"7.954,53",,Y,None
+594, Bruges, Huis,Huis, (op aanvraag) , Huis,6,"6.404,53",,,,,,,"2.249,66",,Y,None
+595, Bruges, House,Historic Estate, (On Request) , House,12,"4,467.02",,,,,,,807.29,,Y,None
+596, Oostkamp, House,Historic Estate, (On Request) , House,7,"3,616.67",,,,,,,"6,167.72",,Y,None
+597, Zwijnaarde, Huis,Vrijstaande woning, (op aanvraag) , Huis,7,"3.067,71",,,,,,,"41.720,92",,Y,None
+598, Bruges, Huis,Villa, (op aanvraag) , Huis,6,"2.475,7",,,,,,,"17.168,44",,Y,None
+599, Bruges, House,Bungalow, (On Request) , House,3,"1,270.14",,,,,,,"6,727.44",,Y,None
+600, Oostende , Huis,Ander(e), (op aanvraag) , Huis,3,"645,83",,,,,,,(op,,Y,None
+601, Bruges, Huis,Huis, (op aanvraag) , Huis,9,"2.841,67",,,,,,,"2.841,67",,Y,None
+602, Bruges, Huis,Villa, (op aanvraag) , Huis,5,"2.368,06",,,,,,,"1,43",,Y,None
+603, Bruges , Huis,Vrijstaande woning, (op aanvraag) , Huis,5,"1.668,41",,,,,,,"1.367,02",,Y,None
+604, Bruges, House,House, (On Request) , House,5,"1,237.85",,,,,,,775,,Y,None
+605, Bruges, House,House, (On Request) , House,8,"4,477.79",,,,,,,"2,066.67",,Y,None
+606, Bruges, Huis,Investering / Woon- en werkruimte, (op aanvraag) , Huis,7,"5.920,15",,,,,,,"4.596,19",,Y,None
+607, Bruges, House,Historic Estate, (On Request) , House,9,"2,830.91",,,,,,,"1,151.74",,Y,None
+608, Bruges, Huis,Investering / Woon- en werkruimte, (op aanvraag) , Huis,None,"1.291,67",,,,,,,(op,,Y,None
+609, Bruges, Huis,Huis, (op aanvraag) , Huis,5,"2.852,44",,,,,,,"1.689,93",,Y,None
+610, Damme, House,Villa, (On Request) , House,5,"3,229.17",,,,,,,"46,392.45",,Y,None
+611, Bruges, House,House, (On Request) , House,None,(On,,,,,,,None,,Y,None
+612, Bruges, House,House, (On Request) , House,6,"1,991.32",,,,,,,"2,002.09",,Y,None
+613, Bruges, Huis,Huis, (op aanvraag) , Huis,7,"3.239,94",,,,,,,"1.969,8",,Y,None
+614, Bruges, Huis,Vrijstaande woning, (op aanvraag) , Huis,3,"807,29",,,,,,,"1.248,61",,Y,None
+615, Bruges, House,Villa, (On Request) , House,9,"6,738.21",,,,,,,"37,770.56",,Y,None
+616, Bruges, Huis,Villa, (op aanvraag) , Huis,6,"2.970,84",,,,,,,"5.220,5",,Y,None
+617, Jabbeke, Huis,Villa, (op aanvraag) , Huis,7,"4.574,66",,,,,,,"22.367,41",,Y,None
+618, Bruges , Huis,Villa, (op aanvraag) , Huis,7,"22.388,93",,,,,,,(op,,Y,None
+619, Oostkamp, House,Villa, (On Request) , House,8,"3,605.91",,,,,,,"17,555.94",,Y,None
+620, Bruges, Huis,Huis, (op aanvraag) , Huis,9,"3.013,89",,,,,,,"2.271,19",,Y,None
+621, Bruges, House,Other, (On Request) , House,3,"1,076.39",,,,,,,"1,076.39",,Y,None
+622, Bruges, House,Investment / Residential investment, (On Request) , House,2,807.29,,,,,,,807.29,,Y,None
+623, Bruges, House,House, (On Request) , House,6,"4,843.76",,,,,,,"4,736.12",,Y,None
+624, Bruges, Huis,Huis, (op aanvraag) , Huis,8,"3.229,17",,,,,,,"1.937,5",,Y,None
+625, Bruges, Huis,Historische pand, (op aanvraag) , Huis,None,"11,12",,,,,,,(op,,Y,None
+626, Bruges, House,House, (On Request) , House,6,"2,475.7",,,,,,,"1,625.35",,Y,None
+627, Bruges, House,House, (On Request) , House,11,"4,520.84",,,,,,,"6,361.47",,Y,None
+628, Oostkamp, House,Villa, (On Request) , House,7,"4,467.02",,,,,,,1.44,,Y,None
+629, Bruges, Huis,Huis, (op aanvraag) , Huis,8,"3.767,37",,,,,,,"3.229,17",,Y,None
+630, Antwerpen-Noord, Huis,Historische pand, (op aanvraag) , Huis,None,(op,,,,,,,None,,Y,None
+631, Bruges, House,House, (On Request) , House,4,"2,475.7",,,,,,,(On,,Y,None
